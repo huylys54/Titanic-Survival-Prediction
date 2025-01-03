@@ -5,7 +5,7 @@ This project aims to predict the survival of passengers on the Titanic using var
 ## Project Structure
 
 ```
-Titanic_ML
+titanic-survival-prediction
 ├─ data
 │ ├─ test.csv
 │ └─ train.csv
